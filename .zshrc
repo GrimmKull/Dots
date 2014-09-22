@@ -1,3 +1,4 @@
+# This is my zshell configuration
 # Path to your oh-my-zsh configuration.
 ZSH=$HOME/.oh-my-zsh
 
